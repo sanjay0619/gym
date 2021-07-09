@@ -482,6 +482,10 @@ footer .htt {
         background-size: cover;
         background-position: center center;
     }
+    header nav .toggle {
+        border: none;
+        outline: none;
+    }
 }
 
 @media (max-width: 600px) {
